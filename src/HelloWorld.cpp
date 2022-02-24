@@ -5,4 +5,4 @@ HelloWorld::HelloWorld() {}
 
 HelloWorld::~HelloWorld() {}
 
-void HelloWorld::SayHello() { std::cout << "Hello, World!"; }
+void HelloWorld::SayHello() { std::cout << "Hello, World!" << std::endl; }
